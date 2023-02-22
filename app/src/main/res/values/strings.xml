@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Application3</string>
+    <string name="StringB1">Test Boton1</string>
+    <string name="StringB2">Test Boton2</string>
+    <string name="StringB3">Test Boton3</string>
+    <string name="StringB4">Test Boton4</string>
+    <string name="StringB5">Test Boton5</string>
+    <string name="StringB6">Test Boton6</string>
+    <string name="StringB7">Test Boton7</string>
+    <string name="StringB8">Test Boton8</string>
+</resources>
